@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: jonerod/HW8218:latest  # Change this to your DockerHub username and image name
+          tags: jonerod/devops-demo:latest  # Change this to your DockerHub username and image name
